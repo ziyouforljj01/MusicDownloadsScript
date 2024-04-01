@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# writer:自游
+# date:2024/4/2
+# 转载使用请标明出处。
+# 严禁用于商业用途。
+# 如有侵权行为请联系作者。
 import re
 import requests
 
